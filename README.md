@@ -1,1 +1,2 @@
 # exo2
+**EXO 2 GIT LOCAL + GITHUB**
